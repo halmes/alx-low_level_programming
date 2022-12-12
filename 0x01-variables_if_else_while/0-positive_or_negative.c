@@ -5,7 +5,7 @@
 /**
 * main - sign of random number
 *
-* betty style doc for function main goes there
+* return: Always success (0)
 */
 
 int main(void)
