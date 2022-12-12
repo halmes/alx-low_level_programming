@@ -3,9 +3,9 @@
 #include <time.h>
 
 /**
-* main - sign of random number 
+* main - sign of random number
 *
-* betty style doc for function main goes there 
+* betty style doc for function main goes there
 */
 
 int main(void)
