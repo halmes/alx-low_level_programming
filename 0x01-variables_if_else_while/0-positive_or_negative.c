@@ -1,11 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+/* more headers goes there */
 
+/* betty style doc for function main goes there */
 /**
 * main - sign of random number
 *
-* return: Always success (0)
+* Return: Always 0 (success)
 */
 
 int main(void)
